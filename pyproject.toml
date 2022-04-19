@@ -2,7 +2,7 @@
 name = "facerecognition"
 version = "0.1.0"
 description = ""
-authors = ["Naman Tamrakar <namantam1@gmail.com>"]
+authors = ["Ghulam Ashraf <ghulamashraf.jec@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
